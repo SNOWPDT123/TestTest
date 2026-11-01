@@ -1,16 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/HubPremier1.sg.png" group-title="GoldenCC",Hub Premier 1
-http://goldencc.live/live/87154928165391/871264387122/341740.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=2700000
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/HubPremier2.sg.png" group-title="GoldenCC",Hub Premier 2
-http://goldencc.live/live/87154928165391/871264387122/341739.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=2700000
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/HubPremier2.sg.png" group-title="GoldenCC",Hub Premier 2 UHD
-http://goldencc.live/live/87154928165391/871264387122/341729.m3u8
-
+Hub Premier1
