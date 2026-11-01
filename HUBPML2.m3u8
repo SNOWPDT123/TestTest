@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
+http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:39:06:0E&stream=1314079&extension=ts&play_token=HcjZqynJ4g
